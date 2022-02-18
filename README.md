@@ -1,17 +1,17 @@
 # №1
 
 ### Per base sequence content
-![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/Pbsc%2073_1)
-![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/Pbsc%2073_2)
-![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/Pbsc%20old)
+![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/Pbsc%2073_1.png)
+![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/Pbsc%2073_2.png)
+![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/Pbsc%20old.png)
 
 Можем наблюдать, что графики выглядят по-разному:
 В первом случае (SRR5836473_1) почти отсутствует Цитозин (C), по крайней мере его гораздо меньше чем в РНК, в отличие от Тимина (T) – его содержание, наоборот, больше, чем в РНК, cодержание Гуанина (G) и Ацетозин (А) же примерно на равном уровне, по сравнению с РНК (SRR3414630_1).
 
 ## Per sequence GC content
-![Image](data/PbGCc 73_1)
-![Image](data/PbGCc 73_2)
-![Image](data/PbGCc old)
+![Image](data/PbGCc 73_1.png)
+![Image](data/PbGCc 73_2.png)
+![Image](data/PbGCc old.png)
 
 Видим, что на первом графике наблюдается (теоретически) нормальное распределение, однако немного смещенное.
 
