@@ -9,8 +9,8 @@
 В первом случае (SRR5836473_1) почти отсутствует Цитозин (C), по крайней мере его гораздо меньше чем в РНК, в отличие от Тимина (T) – его содержание, наоборот, больше, чем в РНК, cодержание Гуанина (G) и Ацетозин (А) же примерно на равном уровне, по сравнению с РНК (SRR3414630_1).
 
 ## Per sequence GC content
-![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/PbGCc%2073_1.png)
-![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/PbGCc%2073_2.png)
+![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/PsGCc%2073_1.png)
+![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/PsGCc%2073_2.png)
 ![Image](https://github.com/Vladm0z/hse_hw1_meth/blob/main/data/PbGCc%20old.png)
 
 Видим, что на первом графике наблюдается (теоретически) нормальное распределение, однако немного смещенное.
