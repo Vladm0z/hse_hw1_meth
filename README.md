@@ -1,17 +1,17 @@
 # №1
 
 ### Per base sequence content
-![](data/Pbsc 73_1)
-![](data/Pbsc 73_2)
-![](data/Pbsc old)
+![Image](data/Pbsc 73_1)
+![Image](data/Pbsc 73_2)
+![Image](data/Pbsc old)
 
 Можем наблюдать, что графики выглядят по-разному:
 В первом случае (SRR5836473_1) почти отсутствует Цитозин (C), по крайней мере его гораздо меньше чем в РНК, в отличие от Тимина (T) – его содержание, наоборот, больше, чем в РНК, cодержание Гуанина (G) и Ацетозин (А) же примерно на равном уровне, по сравнению с РНК (SRR3414630_1).
 
 ## Per sequence GC content
-![](data/PbGCc 73_1)
-![](data/PbGCc 73_2)
-![](data/PbGCc old)
+![Image](data/PbGCc 73_1)
+![Image](data/PbGCc 73_2)
+![Image](data/PbGCc old)
 
 Видим, что на первом графике наблюдается (теоретически) нормальное распределение, однако немного смещенное.
 
@@ -39,30 +39,30 @@ SRR5836475 | 1456 | 630 | 90.92
 На графиках изображена уровень метилирования каждой возможной позиции в прочтении. На графиках по оси Y слева видно значение Methylation calls, справа -- пропорцию метилирования. Так как у нас парно-концевая запись, то для каждого запуска представлено 2 разных графика.
 
 ### SRR3824222
-![](data/Bismark_M-bias Read_1_22.png)
-![](data/Bismark_M-bias Read_2_22.png) 
+![Image](data/Bismark_M-bias Read_1_22.png)
+![Image](data/Bismark_M-bias Read_2_22.png) 
 
 ### SRR5836473
-![](data/Bismark_M-bias Read_1_73.png)
-![](data/Bismark_M-bias Read_2_73.png) 
+![Image](data/Bismark_M-bias Read_1_73.png)
+![Image](data/Bismark_M-bias Read_2_73.png) 
 
 ### SRR5836475
-![](data/Bismark_M-bias Read_1_75.png)
-![](data/Bismark_M-bias Read_2_75.png) 
+![Image](data/Bismark_M-bias Read_1_75.png)
+![Image](data/Bismark_M-bias Read_2_75.png) 
 
 ## (e) Гистограмы распределения метелирования цитозинов по хромосоме
 ### SRR3824222 (Epiblast)
-![](data/Epiblast.png)
+![Image](data/Epiblast.png)
 ### SRR5836473 (8 Cell)
-![](data/8cell.png)
+![Image](data/8cell.png)
 ### SRR5836475 (ICM)
-![](data/ICM.png)
+![Image](data/ICM.png)
 
 Можно сделать вывод, что для каждого образца частота и процент метилляции зависят по-разному. Для первого образца чаще всего метилируется 0%, почти в 40 процентов случаев. Для второго образца чаще всего 100%, что достаточно хороший показатель, так как метилирование принимает участие в экспрессии гена. В третьем образце чаще всего (почти в 60% случаев) метилируется 0% цитозинов.
 
 ## (f) Визуализация уровеня метилирования и покрытия для каждого образца
 ### Уровень метилирования
-![](data/plot_1.png)
+![Image](data/plot_1.png)
 ### Уровень покрытия
-![](data/plot_2.png)
+![Image](data/plot_2.png)
 
